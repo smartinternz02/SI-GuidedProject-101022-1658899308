@@ -2,7 +2,6 @@
 
 Fertilizers Recommendation System For Disease Prediction
 
-All Project files: https://drive.google.com/drive/folders/1fA0q521lP-cpUA3jLqZRbvYO9Kb5jBvo?usp=sharing
 
 Demo video: https://drive.google.com/file/d/1CO9OibxE8yyfXXqONRbZZtoC28c95cP5/view?usp=sharing
 
